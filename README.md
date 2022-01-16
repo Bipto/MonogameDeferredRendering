@@ -10,4 +10,4 @@ RBWhitaker tutorials : http://rbwhitaker.wikidot.com/
 
 Riemer's tutorials (ported to MonoGame) : https://github.com/simondarksidej/XNAGameStudio/wiki/RiemersArchiveOverview
 
-Please not that this repository was created as a learning exercise and does not show the best way to create a deferred renderer.
+Please note that this repository was created as a learning exercise and does not show the best way to create a deferred renderer.
