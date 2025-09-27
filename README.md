@@ -3,7 +3,7 @@ A simple deferred renderer built using MonoGame. Models used were from Mixamo an
 
 ![screenshot](https://user-images.githubusercontent.com/63370393/133943864-f8ae6ae7-54fc-4504-84b5-ab54e8f1042b.png)
 
-#Features
+# Features
 - Model and texture loading
 - Diffuse, specular and ambient lighting using the Blinn-Phong model
 - Skyboxes
