@@ -8,7 +8,7 @@ A simple deferred renderer built using MonoGame. Models used were from Mixamo an
 - Diffuse, specular and ambient lighting using the Blinn-Phong model
 - Skyboxes
 - Direction, point and spot lights applied efficiently only to relevant area of framebuffer and with no hardcoded counts
-- 3D position reconstruction for lighting calculations using a  the pixel coordinate, an inverse view matrix and a depth buffer
+- 3D position reconstruction for lighting calculations using the pixel coordinate, an inverse view matrix and a depth buffer
 
 # Links
 
