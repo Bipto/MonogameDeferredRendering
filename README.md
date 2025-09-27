@@ -3,8 +3,16 @@ A simple deferred renderer built using MonoGame. Models used were from Mixamo an
 
 ![screenshot](https://user-images.githubusercontent.com/63370393/133943864-f8ae6ae7-54fc-4504-84b5-ab54e8f1042b.png)
 
+#Features
+- Model and texture loading
+- Diffuse, specular and ambient lighting using the Blinn-Phong model
+- Skyboxes
+- Direction, point and spot lights applied efficiently only to relevant area of framebuffer and with no hardcoded counts
+- 3D depth reconstruction for lighting calculations using a depth buffer
 
-Catalin Zima deferred rendering : http://www.catalinzima.com/xna/tutorials/deferred-rendering-in-xna/
+# Links
+
+Catalin Zima deferred rendering : (link no longer available)
 
 RBWhitaker tutorials : http://rbwhitaker.wikidot.com/
 
